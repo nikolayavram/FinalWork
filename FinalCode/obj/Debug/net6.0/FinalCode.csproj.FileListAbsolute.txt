@@ -1,0 +1,15 @@
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\bin\Debug\net6.0\FinalCode.exe
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\bin\Debug\net6.0\FinalCode.deps.json
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\bin\Debug\net6.0\FinalCode.runtimeconfig.json
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\bin\Debug\net6.0\FinalCode.dll
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\bin\Debug\net6.0\FinalCode.pdb
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\obj\Debug\net6.0\FinalCode.csproj.AssemblyReference.cache
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\obj\Debug\net6.0\FinalCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\obj\Debug\net6.0\FinalCode.AssemblyInfoInputs.cache
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\obj\Debug\net6.0\FinalCode.AssemblyInfo.cs
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\obj\Debug\net6.0\FinalCode.csproj.CoreCompileInputs.cache
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\obj\Debug\net6.0\FinalCode.dll
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\obj\Debug\net6.0\refint\FinalCode.dll
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\obj\Debug\net6.0\FinalCode.pdb
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\obj\Debug\net6.0\FinalCode.genruntimeconfig.cache
+D:\УЧЕБКА\CSharp\FinalWork\FinalCode\obj\Debug\net6.0\ref\FinalCode.dll
